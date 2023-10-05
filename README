@@ -1,0 +1,57 @@
+# spotify-clone-boilerplate
+
+## Here is the expected output
+
+![](https://github.com/Kalvium-Program/spotify-clone-boilerplate/blob/main/assets/Spotify%20Web%20UI.png?raw=true)
+
+Fork this repo and get started with the cloning project.
+
+## Additional details:
+Use color picker extensions link [colorpick-eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/) in Google chrome to get the exact colors used in the webpage.
+
+The font used: DM Sans
+
+
+If you need more icons you can visit [flaticons.com](https://www.flaticon.com/)
+
+<section class="sidenav">
+        <div id="logo">
+            <img src="assets/Spotify logo.png">
+        </div>
+        <div id="home">
+            <img src="assets/Home.png"> 
+        </div>
+        <div id="search">
+            <img src="assets/Search.png"> 
+        </div>
+        <div id="library">
+            <img src="assets/Your library.png"> 
+        </div>
+        <div id="creatplaylist">
+            <img src="assets/object3.png"> 
+        </div>
+        <div id="likedsongs">
+            <img src="assets/object1.png">
+            <div>
+                <img src="assets/heart.png">  
+            </div> 
+        </div>
+        <div id="episodes">
+            <img src="assets/object4.png"> 
+        </div>
+        
+        <div id="Fav">
+            <ul>
+                <li>FAV</li>
+                <li>Daily Mix 1</li>
+                <li>Malayalam</li>
+                <li>Dance/Electronic Mix</li>
+                <li>EDM/Popular</li>
+            </ul>
+        </div>
+
+        <div id="install">
+            <img src="assets/heart.png">  
+        </div>
+
+    </section>

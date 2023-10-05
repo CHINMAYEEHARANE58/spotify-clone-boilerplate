@@ -1,0 +1,104 @@
+*{
+    color: aliceblue;
+    font-family: 'DM Sans', sans-serif;
+}
+body{
+    background-color: #141414;
+}
+#top{
+    display: flex;
+}
+#playlists{ 
+    display: flex;
+}
+#profile{
+    
+}
+#profilepic{
+    display: flex;
+}
+#shows{
+    display: flex;
+}
+#show2{
+    text-transform: uppercase;
+}
+#foot{
+    display: flex;
+    z-index: 2;
+    color: #181818;
+    width: 100%;
+    height: 20px;
+    bottom: 0;
+}
+#sidenav{
+    color: #000000;
+    width: 100px;
+}
+#logo{
+    width: 110px;
+    height: 30px;
+}
+#home{
+    width: 30px;
+    align-items: left;
+    padding: 4px;
+}
+#search{
+    width: 30px;
+    align-items: left;
+    padding: 4px;
+}
+#library{
+    width: 30px;
+    align-items: left;
+    padding: 4px;
+}
+#creatplaylist{
+    width: 30px;
+    align-items: left;
+    padding: 4px;
+}
+#likedsongs{
+    width: 30px;
+    align-items: left;
+    padding: 4px;
+}
+#likedsongsheart{
+    width: 15px;
+    align-items: left;
+    padding: 13px;
+    z-index: 2;
+}
+#episodes{
+    width: 30px;
+    align-items: left;
+    padding: 4px;
+}
+#install{
+    width: 30px;
+    align-items: left;
+    padding: 4px;
+}
+#song1,
+#song2,
+#song3,
+#song4,
+#song5{
+    width: 50px;
+    padding: 2px;
+}
+h3{
+    font-size: 15px;
+}
+#show1,
+#show2,
+#show3,
+#show4,
+#show5,
+#show6{
+    padding: 2px;
+    width: 200px;
+}
+
+
